@@ -2,6 +2,9 @@
 
 ## Junior Frontend-developer
 
+![photo](https://media.discordapp.net/attachments/1173507944961298464/1173509466390548491/photo1699856634.jpeg?ex=656436db&is=6551c1db&hm=ff543870e85350ce99cde0e1cf9d257bcbe64ca7f06c77488fb1989a658e3ca0&=&width=460&height=613)
+---
+
 ### Contacts
 
 - Telegram: @magsia
