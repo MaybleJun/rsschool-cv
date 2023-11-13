@@ -1,0 +1,70 @@
+/* Reset some default styles for consistency */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffebcd;
+    color: #ffa500;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+main {
+    width: 50%;
+}
+
+header {
+    background-color: #ffc0cb; 
+    text-align: center;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: #ff6347; 
+    text-align: center;
+}
+
+img.cv-avatar {
+    display: block;
+    margin: 10px auto;
+    border-radius: 1%;
+    width: 35%;
+    height: auto;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fffacd; /* светло-желтый фон для секций */
+    border: 1px solid #ffd700; /* желтая обводка для секций */
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #ff6347;
+}
+
+
+footer {
+    background-color: #ffc0cb;
+    padding: 1em;
+    text-align: center;
+    position: relative;
+    width: 50%;
+}
+.footer-logo {
+    width: 50px;
+    height: 50px;
+}
