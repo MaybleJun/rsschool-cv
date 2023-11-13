@@ -37,7 +37,7 @@ function sumTwoSmallestNumbers(numbers){
 - Povolzhsky Institute of Management named after P.A. Stolypin, 
   "Management and Logistics" Bachelor's degree - 2017-2021
 - Yuri Gagarin State Technical University of Saratov 
-  "Software Engineering" Master's degree - 2021-2023
+  **"Software Engineering" Master's degree** - 2021-2023
 - JavaScript/Front-end (RS School) - in progress
 
 ### Languages
