@@ -1,1 +1,1 @@
-https://github.com/MaybleJun.github.io/rsschool-cv/cv
+https://MaybleJun.github.io/rsschool-cv/
