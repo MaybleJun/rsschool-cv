@@ -37,7 +37,7 @@ img.cv-avatar {
     display: block;
     margin: 10px auto;
     border-radius: 1%;
-    width: 35%;
+    width: 300px;
     height: auto;
 }
 
@@ -55,7 +55,9 @@ ul {
 a {
     color: #ff6347;
 }
-
+.name-avatar{
+    background-color: #ffc0cb;
+}
 
 footer {
     background-color: #ffc0cb;
