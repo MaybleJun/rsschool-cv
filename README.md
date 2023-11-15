@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MaybleJun.github.io/rsschool-cv/
